@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, I'm João Pedro Severo</h1>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8607F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Pedro+!)](https://git.io/typing-svg)
+
+</div>
 <h3 align="center">Software Engineer Student | DevSec | Automation & AI Enthusiast</h3>
 
 <p align="center">
