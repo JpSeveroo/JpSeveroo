@@ -15,7 +15,7 @@
 
 - 🎓 Estudante de **Engenharia de Software** – Universidade de Pernambuco  
 - 💼 Ex-estagiário na **Crazytech Labs**  
-- 🤖 Criador de um **[Killua_bot](https://t.me/kilua_dev_bot)**  
+- 🤖 Criador de um **[Killua_bot](https://t.me/kilua_dev_bot)** >>> Fora do ar
 - 🌐 Fundador do projeto **[Webeat.dev](https://www.webbeat.dev/)**  
 - 🧩 Desenvolvedor da extensão **[ColorLens](https://chromewebstore.google.com/detail/edjapphbjiacdcgponphdfmaeedofegk?utm_source=item-share-cb)**
 - 🔁 Automação de fluxos com **n8n**  
