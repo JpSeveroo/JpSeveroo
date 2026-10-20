@@ -3,42 +3,18 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8607F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Pedro+!)](https://git.io/typing-svg)
 
 </div>
-<h3 align="center">Software Engineer Student | DevSec | Automation & AI Enthusiast</h3>
+<h3 align="center">Software Engineer Student | DevSecOps | Automation & AI </h3>
 
-<p align="center">
-  🚀 Trilhando linhas de código em direção ao mundo das possibilidades  
-</p>
+## Why I maintain
 
----
+> 💫Trilhando linhas de código em direção ao mundo das possibilidades como Engenheiro de software.
 
-### 🧑‍💻 About me
+- 📍 Based in **Lagoa do Ouro(PE) - Brasil**
+- 🏢 Working at **Universidade de Pernambuco**
+- 👥 **14** followers · **9** following
+ 
 
-- 🎓 Estudante de **Engenharia de Software** – Universidade de Pernambuco  
-- 💼 Ex-estagiário na **Crazytech Labs**  
-- 🌐 Embaixador Estudantil Google 2026
-- 🧩 Desenvolvedor da extensão **[ColorLens](https://chromewebstore.google.com/detail/edjapphbjiacdcgponphdfmaeedofegk?utm_source=item-share-cb)**
-- 🔁 Automação de fluxos com **n8n**  
-- 🐳 Uso frequente de **Docker** em projetos
-- 📚 Aprofundando-se no ramo de DevSec  
-- 📍 Lagoa do Ouro - PE, Brasil  
-
----
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Jpseveroo&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Jpseveroo&theme=aura&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpseveroo&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
+## Contribution log
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JpSeveroo/JpSeveroo/output/github-contribution-grid-snake-dark.svg">
@@ -46,14 +22,27 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JpSeveroo/JpSeveroo/output/github-contribution-grid-snake.svg">
 </picture>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tools of the trade
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jpseveroo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=jpseveroo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142758081%3Fu%3Dc29744b8897ed45c1d576f7dada66cad7d45a64b%26v%3D4" alt="jpseveroo stack visual" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Jpseveroo&icon=9&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats:
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Jpseveroo&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Jpseveroo&theme=aura&hide_border=false)
+
+</div>
+
+## Come contribute
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jpseveroo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142758081%3Fu%3Dc29744b8897ed45c1d576f7dada66cad7d45a64b%26v%3D4" alt="jpseveroo social visual" />
+</p>
 
 <p align="center">✨ Always learning. Always building. ✨</p>
 
@@ -64,4 +53,3 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ysadzinnn)
 
 </div>
-
