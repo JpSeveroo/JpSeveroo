@@ -11,7 +11,7 @@
 
 - 📍 Based in **Lagoa do Ouro(PE) - Brasil**
 - 🏢 Working at **Universidade de Pernambuco**
-- 👥 **14** followers · **9** following
+- 👥 **14** followers · **12** following
  
 
 ## Contribution log
