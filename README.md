@@ -31,10 +31,10 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-
+  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JpSeveroo&theme=aura&hide_border=false)
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JpSeveroo&theme=aura&show_icons=true)
 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JpSeveroo&theme=aura&show_icons=true)
 
 </div>
 
