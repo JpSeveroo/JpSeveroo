@@ -32,9 +32,9 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Jpseveroo&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Jpseveroo&theme=aura&hide_border=false)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JpSeveroo&theme=aura&show_icons=true)
+
 
 </div>
 
